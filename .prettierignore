@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.prettierrc.js
+bitbucket-pipelines.yml
+src/gql/graphql.tsx
+coverage/
+docs/flow-diagrams
